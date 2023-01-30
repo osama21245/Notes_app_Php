@@ -1,4 +1,4 @@
-const String linkservername = "http://192.168.1.6/projectsphp";
+const String linkservername = "http://10.0.2.2/projectsphp";
 const String linkimageroute = "$linkservername/upload";
 
 //auth
